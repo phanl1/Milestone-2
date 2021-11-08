@@ -7,7 +7,7 @@ November 8th, 2021
               - A pets age can only be between 1 and 20
               - When adding a pet only to values are to be enterned: name, age
               - The ID input by the user must an index of the ArrayList
-              
+
 */
 
 //importing needed utilitis 
@@ -19,10 +19,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
-/**
- *
- * @author Rachel
- */
+
 public class petDataBase2 {
 
     //creating 2D arrayList
